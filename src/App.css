@@ -1,0 +1,14 @@
+.control-row{
+  margin-top:10px;
+}
+
+.number-input{
+  max-width:7rem;
+}
+
+.privacy{
+  padding:1rem;
+  border-radius:4px;
+  color:white;
+  font-size:1.25rem;
+}
